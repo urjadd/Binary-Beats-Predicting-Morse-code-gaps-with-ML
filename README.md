@@ -42,8 +42,13 @@ Trained a linear kernel SVM classifier on a 75% training and 25% testing split. 
 #### Logistic Regression
 Trained a Logistic Regression model on a 75% training and 25% testing split. Accuracy: 60.85%.
 
+#### Decision Tree
+Trained a Logistic Regression model on a 75% training and 25% testing split. Accuracy: 69%
+
 #### Recurrent Neural Network (RNN)
-Developed and trained an RNN with TensorFlow's Keras API. Data was preprocessed, model constructed (embedding, LSTM, and dense layers), and trained over 10 epochs. Evaluated on an 80% training and 20% testing split. Test Accuracy: 62.75%.# Morse_Code
+Developed and trained an RNN with TensorFlow's Keras API. Data was preprocessed, model constructed (embedding, LSTM, and dense layers), and trained over 10 epochs. Evaluated on an 80% training and 20% testing split. Test Accuracy: 62.75%.
+
+##### The Decision Tree model had the highest accuracy at 69%
 
 #### Future Work
 
